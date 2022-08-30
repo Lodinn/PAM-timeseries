@@ -1,0 +1,10 @@
+pandas~=1.3.4
+numpy~=1.21.4
+pytz~=2021.3
+pvlib~=0.9.0
+spectral~=0.22.4
+matplotlib~=3.5.0
+scipy~=1.7.2
+seaborn~=0.11.2
+pycwt~=0.3.0a22
+skyfield~=1.41
